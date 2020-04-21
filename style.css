@@ -1,0 +1,85 @@
+html,body  {
+    background: url(images/nsm.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+
+}
+
+h1 {
+    color:blueviolet;
+    font-size:2rem;
+}
+
+.my-container{
+   /* border: 1px solid blue; */
+}
+.my-row{
+    /*border: 2px dashed green;*/
+    height: 300px;
+}
+.my-col{
+   /* border: 2px solid yellow;*/
+}
+#mybutton{
+    padding: 1rem 2rem;
+    font-weight:bold;
+    border-radius: 300px;
+    border-color: #3A006F;
+   
+}
+#mybutton:hover{
+    background-color: #3A006F;
+    font-weight: bold;
+    border-radius: 300px;
+    border-width: 3px;
+
+    
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* <div class="container my-container">
+            <div class="row my-row">
+                <div class="col-xxs-12 col-md-12 my-col">Row 1 Cal 1</div>
+
+
+
+            </div>
+            <div class="row my-row">
+                <div class="col my-col">Row 2 Cal 1</div>
+                
+            </div>
+            <div class="row my-row">
+                <div class="col my-col">Row 3 Cal 1</div>
+                
+            </div>
+
+            <div class="row my-row">
+                <div class="col-4 my-col">Row 4 Cal 1</div>
+                <div class="col-4 my-col">Row 4 Cal 2</div>
+                <div class="col-4 my-col">Row 4 Cal 3</div>
+            </div>
+
+            <div class="row my-row">
+                    <div class="col-12 my-col">Row 5 Cal 1</div>
+                    
+            </div>
+*/ 
